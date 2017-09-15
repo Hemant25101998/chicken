@@ -4,7 +4,9 @@ dahi
 tandoori roti
 salad
 vodka
-beer
-spoons
+kheera
+beer glass
+dhania
 spices
+turmeric
 salts
