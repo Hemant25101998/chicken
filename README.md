@@ -8,3 +8,4 @@ beer
 glass
 spices
 salts
+makhan
