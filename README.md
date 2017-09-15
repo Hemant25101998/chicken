@@ -4,3 +4,4 @@ dahi
 tandoori roti
 salad
 vodka
+beer
