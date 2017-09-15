@@ -5,6 +5,6 @@ tandoori roti
 salad
 vodka
 beer
-glass
+spoons
 spices
 salts
